@@ -10,3 +10,8 @@ Ideas for improvements:
 4. Add a positive health feature. Currently, the game is a little "everything sucks and everything will hurt you". Add positive influences of activities, for e.g. positive results of environmental policies of cities, or good values of pollution indices, etc. 
 5. Add animations in ASCII - art. Find an efficient way to do this. 
 6. Clean up code to take music, ascii art as input from /data folder. 
+
+We used many useful resources that are we grateful to, such as:
+1. img2txt. https://github.com/hit9/img2txt . We didn't end up using this but maybe in the future.
+2. http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20. - Text to ascii art
+3. https://www.ascii-art-generator.org . We didn't end up using this but maybe in the future.
