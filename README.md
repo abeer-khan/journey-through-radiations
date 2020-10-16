@@ -1,7 +1,8 @@
 # journey-through-radiations
 Prototype for educational tool that uses radiation information from the Canadian Space Agency to create a story for students to understand its effect on their health
 
-Created by Abeer Khan and Shashikanth Srinath during the Space Apps hackathon 2019. We deal with RadiN2 challenge. Won the RadiN2 challenge for the Waterloo chapter, qualifying for nationals https://www.asc-csa.gc.ca/eng/events/2019/space-apps-2019.asp#challenge-4
+Created by Abeer Khan and Shashikanth Srinath during the Space Apps hackathon 2019 https://www.asc-csa.gc.ca/eng/events/2019/space-apps-2019.asp#challenge-4. 
+We deal with RadiN2 challenge. Won the RadiN2 challenge for the Waterloo chapter, qualifying for nationals 
 
 Ideas for improvements:
 1. Retain DOS interface. 
